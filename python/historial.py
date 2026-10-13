@@ -17,7 +17,7 @@
 #   python3 historial.py < ejemplo_historial.txt
 # Al juez (problema "Historial de navegador") se sube UN fichero que lleva
 # tambien tu ListaDoble: generalo con  python3 generar_envio.py  y sube
-# envio_historial.py.kk
+# envio_historial.py.kkf
 
 import sys
 
