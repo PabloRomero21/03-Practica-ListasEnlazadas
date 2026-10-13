@@ -38,7 +38,7 @@ class BrowserHistory:
         #    Pista: tu ListaDoble ya sabe borrar por el final.
         # 2. Enlazar un nodo nuevo con url justo detras de self.actual.
         # 3. Mover self.actual a ese nodo nuevo.
-        raise NotImplementedError
+        
 
     def back(self, steps):
         # Coste: O(?)
